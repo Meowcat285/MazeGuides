@@ -1,5 +1,5 @@
 ---
-layout: page
+layout: empty
 title: Demo
 permalink: /demo/
 ---
