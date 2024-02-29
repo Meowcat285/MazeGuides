@@ -5,7 +5,7 @@ Most issues often get fixed with this turn it on/off solution.
 
 Keep in mind with these photos I have mods, some of these you may see different folders/files that are not commonly shared - completely fine, I will point out which ones you need to delete and what NOT to delete.
 
-> Step 1: Deleting All mods in the Appdata/Mods folder
+## Step 1: Deleting All mods in the Appdata/Mods folder
 
 **Please, keep in mind the location visible should be similar, this isn’t your installation folder**
 
@@ -16,3 +16,6 @@ Here is how to find the mods folder:
 just navigate & delete the pak files inside mods folder itself.(Even full reinstalls don’t need this)**
 
 C:\Users\YourName\AppData\Local\Larian Studios\Baldur's Gate 3\Mods
+![Image of mods folder](image1.png)
+
+If you do not know how to find your AppData folder, here's how:
