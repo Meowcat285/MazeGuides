@@ -140,16 +140,42 @@
 <p>First, this guide is meant as a reference to walk you through resetting your modsetting file, in addition it will help get you to a point where you can test if you have additional issues with mod incompatibilities. Like it or not, this is a vital step in helping ensure the problem is found through careful elimination.
 Most issues often get fixed with this turn it on/off solution.</p>
 <p>Keep in mind with these photos I have mods, some of these you may see different folders/files that are not commonly shared - completely fine, I will point out which ones you need to delete and what NOT to delete.</p>
-<blockquote>
-<p>Step 1: Deleting All mods in the Appdata/Mods folder</p>
-</blockquote>
+<h2 id="step-1-deleting-all-mods-in-the-appdatamods-folder">Step 1: Deleting All mods in the Appdata/Mods folder</h2>
 <p><strong>Please, keep in mind the location visible should be similar, this isn’t your installation folder</strong></p>
 <p>Additionally, you can choose to move them out in a temporary folder, if you plan on keeping your mods. All the mods should be in the format of .pak
 Here is how to find the mods folder:</p>
 <p><strong>Do Not Delete your entire Larian or BG3 folder, your saves are fine.
 just navigate &amp; delete the pak files inside mods folder itself.(Even full reinstalls don’t need this)</strong></p>
 <p>C:\Users\YourName\AppData\Local\Larian Studios\Baldur's Gate 3\Mods
-<img src="file:///c:\Users\AKsub\OneDrive\Old\Documents\GithubProjects\MazeGuides\image1.png" alt="Image of mods folder"></p>
+<img src="file:///c:\Users\AKsub\OneDrive\Old\Documents\GithubProjects\MazeGuides\image7.png" alt="Image of mods folder"></p>
+<p>If you do not know how to find your AppData folder, here's how:
+<img src="file:///c:\Users\AKsub\OneDrive\Old\Documents\GithubProjects\MazeGuides\image9.png" alt="Image Of Run in Windows Search"></p>
+<p><img src="file:///c:\Users\AKsub\OneDrive\Old\Documents\GithubProjects\MazeGuides\image8.png" alt="Image of Run dialog with %LOCALAPPDATA% in the text box"></p>
+<p>Just go to the windows search function at the start, type ‘Run’ and click on it. In that app, type %LOCALAPPDATA% and press okay. Your appdata folder should be opened in file explorer.</p>
+<h2 id="step-2-delete-specified-folders">Step 2: Delete specified folders</h2>
+<p><strong>Delete all folders except Localization. Photo for reference. Localization is vanilla.
+You should only delete folders here, leave the pak files alone.</strong></p>
+<p>The path should look something like this, depending on the drive you installed Baldurs Gate on:
+<code>D:\SteamLibrary\steamapps\common\Baldurs Gate 3\Data</code></p>
+<p><img src="file:///c:\Users\AKsub\OneDrive\Old\Documents\GithubProjects\MazeGuides\image1.png" alt="Image OF Data Folder"></p>
+<p>Again do not delete the .pak files. Leave the .pak files and other files alone. Only delete the folders INSIDE of data. <strong>This means localization and the other .pak files is the only thing you see inside of /data once done.</strong> If you delete anything besides what is described here - your game is going to have to be reinstalled almost from scratch.</p>
+<h2 id="step-3-clear-out-all-folders-in-bin-folder">Step 3: Clear Out All Folders in /bin folder</h2>
+<p>The pathway should look like this: <code>D:\SteamLibrary\steamapps\common\Baldurs Gate 3\bin</code></p>
+<p>If you have native mod loader OR script extender, do these extra steps:</p>
+<p><em>Inside your game's bin folder:</em></p>
+<ul>
+<li>Delete <code>NativeMods</code> folder.</li>
+<li>Delete <code>Dwrite.dll</code>. (This is the Script Extender)</li>
+<li>Delete <code>bind2w64.dll</code></li>
+<li>Rename <code>bink2w64_original.dll</code> to <code>bink2w64.dll</code></li>
+</ul>
+<p><strong>MAKE SURE YOU HAVE DONE THE ABOVE</strong></p>
+<h3 id="step-35-if-you-have-party-limit-begone-legacy-installed-the-one-that-does-not-use-script-extender">Step 3.5: If you have Party Limit Begone Legacy installed (the one that does not use Script Extender)</h3>
+<hr>
+<p>If you have <strong>Party Limit Begone Legacy</strong> installed, then you will need to delete your <code>exe</code> files in your bin folder. Delete the backup too</p>
+<p><strong>The exes do not get altered/reinstalled when you verify the game so this is a MUST! if you had Party limit begone mod legacy. If you use the .pak version then do not worry and skip this step!</strong></p>
+<h2 id="step-4-delete-modsettingslsx-file">Step 4: Delete <code>modsettings.lsx</code> File</h2>
+<p>You can find <code>modsettings.lsx</code> in <code>C:\Users\YourName\AppData\Local\Larian Studios\Baldur's Gate 3\PlayerProfiles\Public</code></p>
 
             
             
