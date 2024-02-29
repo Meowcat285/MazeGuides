@@ -33,7 +33,7 @@ You should only delete folders here, leave the pak files alone.**
 The path should look something like this, depending on the drive you installed Baldurs Gate on: 
 `D:\SteamLibrary\steamapps\common\Baldurs Gate 3\Data`
 
-![Image OF Data Folder](image1.png)
+![Image OF Data Folder](./image1.png)
 
 Again do not delete the .pak files. Leave the .pak files and other files alone. Only delete the folders INSIDE of data. **This means localization and the other .pak files is the only thing you see inside of /data once done.** If you delete anything besides what is described here - your game is going to have to be reinstalled almost from scratch.
 
