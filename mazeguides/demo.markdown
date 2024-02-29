@@ -1,3 +1,9 @@
+---
+layout: page
+title: Demo
+permalink: /demo/
+---
+
 # How to establish a baseline for troubleshooting or go back to unmodded (you can mod your game again)
 
 First, this guide is meant as a reference to walk you through resetting your modsetting file, in addition it will help get you to a point where you can test if you have additional issues with mod incompatibilities. Like it or not, this is a vital step in helping ensure the problem is found through careful elimination.
