@@ -1,7 +1,7 @@
 ---
 layout: page
-title: Demo
-permalink: /demo/
+title: Establish A Baseline
+permalink: /baseline/
 ---
 
 # How to establish a baseline for troubleshooting or go back to unmodded (you can mod your game again)
