@@ -62,3 +62,38 @@ If you have **Party Limit Begone Legacy** installed, then you will need to delet
 
 You can find `modsettings.lsx` in `C:\Users\YourName\AppData\Local\Larian Studios\Baldur's Gate 3\PlayerProfiles\Public`
 
+Delete the highlighted `modsettings.lsx` file
+![Image Of The modsettings.lsx file highlighed in the file browser](image3.png)
+
+## Step 5: Verify Game Files
+
+### If you are using BG3 on Steam:
+Go to your steam library and right click on Baldur's Gate 3
+
+![Image of the right click menu on steam with Properties selected](image2.png)
+
+Click on `Properties` as shown above
+
+![Image of Steam Properties Window](image6.png)
+
+This menu will appear - click on `Installed Files` and then on `Verify integrity of game files`
+
+Now you just wait until it is done
+Do not worry if a lot files needs to be replaced - if you have loose file mods, these will likely need to be replaced
+
+### If you are using GOG Galaxy
+
+![Image of GOG Galaxy](image4.png)
+
+The picture is not in english but the option is highlighted. I will see if I can find an english version as I do not use GOG but nevertheless thank you Nerogami for the picture.
+
+## Step 6: Run Baldur's Gate 3 once without any mods to reset the `modsettings.lsx` file
+
+Test if you can reach character creation without issues, look around for bugs, if none quickly make a base tav & test if tutorial loads fine. If so you’re good to mod or play vanilla 
+
+---
+
+### Happy Gaming!
+
+Credits to Maze & DefinitiveToast for making this guide.
+> This guide was created using an already known guide, the original creators name has been lost. Hence why if you know the original creators name, pls tell us! I would like to credit the original creator
