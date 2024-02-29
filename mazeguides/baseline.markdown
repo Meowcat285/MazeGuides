@@ -22,12 +22,12 @@ Here is how to find the mods folder:
 just navigate & delete the pak files inside mods folder itself.(Even full reinstalls don’t need this)**
 
 C:\Users\YourName\AppData\Local\Larian Studios\Baldur's Gate 3\Mods
-![Image of mods folder](https://mazeguides.meowcat285.com/image7.png)
+![Image of mods folder](/assets/baseline/image7.png)
 
 If you do not know how to find your AppData folder, here's how:
-![Image Of Run in Windows Search](https://mazeguides.meowcat285.com/image9.png)
+![Image Of Run in Windows Search](/assets/baseline/image9.png)
 
-![Image of Run dialog with %LOCALAPPDATA% in the text box](https://mazeguides.meowcat285.com/image8.png)
+![Image of Run dialog with %LOCALAPPDATA% in the text box](/assets/baseline/image8.png)
 
 Just go to the windows search function at the start, type ‘Run’ and click on it. In that app, type %LOCALAPPDATA% and press okay. Your appdata folder should be opened in file explorer. 
 
@@ -39,7 +39,7 @@ You should only delete folders here, leave the pak files alone.**
 The path should look something like this, depending on the drive you installed Baldurs Gate on: 
 `D:\SteamLibrary\steamapps\common\Baldurs Gate 3\Data`
 
-![Image OF Data Folder](https://mazeguides.meowcat285.com/image1.png)
+![Image OF Data Folder](/assets/baseline/image1.png)
 
 Again do not delete the .pak files. Leave the .pak files and other files alone. Only delete the folders INSIDE of data. **This means localization and the other .pak files is the only thing you see inside of /data once done.** If you delete anything besides what is described here - your game is going to have to be reinstalled almost from scratch.
 
@@ -69,18 +69,18 @@ If you have **Party Limit Begone Legacy** installed, then you will need to delet
 You can find `modsettings.lsx` in `C:\Users\YourName\AppData\Local\Larian Studios\Baldur's Gate 3\PlayerProfiles\Public`
 
 Delete the highlighted `modsettings.lsx` file
-![Image Of The modsettings.lsx file highlighed in the file browser](https://mazeguides.meowcat285.com/image3.png)
+![Image Of The modsettings.lsx file highlighed in the file browser](/assets/baseline/image3.png)
 
 ## Step 5: Verify Game Files
 
 ### If you are using BG3 on Steam:
 Go to your steam library and right click on Baldur's Gate 3
 
-![Image of the right click menu on steam with Properties selected](https://mazeguides.meowcat285.com/image2.png)
+![Image of the right click menu on steam with Properties selected](/assets/baseline/image2.png)
 
 Click on `Properties` as shown above
 
-![Image of Steam Properties Window](https://mazeguides.meowcat285.com/image6.png)
+![Image of Steam Properties Window](/assets/baseline/image6.png)
 
 This menu will appear - click on `Installed Files` and then on `Verify integrity of game files`
 
@@ -89,7 +89,7 @@ Do not worry if a lot files needs to be replaced - if you have loose file mods, 
 
 ### If you are using GOG Galaxy
 
-![Image of GOG Galaxy](https://mazeguides.meowcat285.com/image4.png)
+![Image of GOG Galaxy](/assets/baseline/image4.png)
 
 The picture is not in english but the option is highlighted. I will see if I can find an english version as I do not use GOG but nevertheless thank you Nerogami for the picture.
 
