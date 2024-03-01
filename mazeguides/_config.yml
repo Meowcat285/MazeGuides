@@ -73,3 +73,18 @@ callouts:
 
 include:
   - mods-install
+
+collections:
+  guides:
+    permalink: "/:collection/:path/"
+    output: true
+  info:
+    permalink: "/:collection/:path/"
+    output: true
+
+just_the_docs:
+  collections:
+    guides:
+      name: Guides
+    info:
+      name: General Info
