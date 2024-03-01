@@ -73,4 +73,18 @@ callouts:
 
 include:
   - mods-install
-  - maze-guides
+
+collections:
+  guides:
+    permalink: "/:collection/:path/"
+    output: true
+  info:
+    permalink: "/:collection/:path/"
+    output: true
+
+just_the_docs:
+  collections:
+    guides:
+      name: Guides
+    info:
+      name: General Info
