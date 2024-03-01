@@ -65,7 +65,7 @@ If you have native mod loader OR script extender, do these extra steps:
 - Delete `bind2w64.dll`
 - Rename `bink2w64_original.dll` to `bink2w64.dll`
 
-!!! note
+!!! tip
     
     MAKE SURE YOU HAVE DONE THE ABOVE
 
@@ -75,7 +75,7 @@ If you have native mod loader OR script extender, do these extra steps:
 
 If you have **Party Limit Begone Legacy** installed, then you will need to delete your `exe` files in your bin folder. Delete the backup too
 
-!!! note
+!!! tip
 
     The exes do not get altered/reinstalled when you verify the game so this is a MUST! if you had Party limit begone mod legacy. If you use the .pak version then do not worry and skip this step!
 

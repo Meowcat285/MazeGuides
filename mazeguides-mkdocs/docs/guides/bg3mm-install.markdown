@@ -77,7 +77,7 @@ Now you need to go into your settings, then preferences:
 
 ![BG3MM Preferences](/assets/bg3mm-install/image6.png)
 
-!!! note
+!!! tip
     
     The preferences should look like this.
     Your game data path has to end with your data folder and your game executable path has to end with your bg3.exe.
@@ -96,7 +96,7 @@ Path (could be different depending on system and harddrive):
 
 ## Now that you have finished installing BG3MM, you can continue on to the mods install guide
 
-[Continue to How to Install Mods Guide](mods-install.markdown){: .btn .btn-green }
+[Continue to How to Install Mods Guide](mods-install.markdown)
 
 ---
 

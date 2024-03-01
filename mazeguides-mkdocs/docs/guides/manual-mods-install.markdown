@@ -10,8 +10,9 @@ grand_parent: How To Install Mods
 
 > Guide by Maze
 
-{: .note }
-This is a question I often get on discord, so it will have a page of its own 
+!!! note
+    
+    This is a question I often get on discord, so it will have a page of its own 
 
 ---
 
@@ -32,7 +33,7 @@ Or the root game folder:
 
 `D:\SteamLibrary\steamapps\common\Baldurs Gate 3`
 
-I choose to download a tattoo/make up mod. It will come in a .rar file
+I chose to download a tattoo/make up mod. It will come in a .rar file
 
 ![Image of mod archive in a file browser](/assets/mods-install/image1.png)
 
@@ -49,8 +50,9 @@ That’s it! Now it’s installed.
 
 ---
 
-{: .note }
-If the file extracted from the rar/zip file is called Bin/Data it needs to go to the root folder: D:\SteamLibrary\steamapps\common\Baldurs Gate 3
+!!! note
+    
+    If the file extracted from the rar/zip file is called Bin/Data it needs to go to the root folder: D:\SteamLibrary\steamapps\common\Baldurs Gate 3
 
 ![Image of BG3 Root folder](/assets/mods-install/image8.png)
 
@@ -58,8 +60,9 @@ If the file extracted from the rar/zip file is called Bin/Data it needs to go to
 
 ---
 
-{: .note }
-Some mods are installed differently such as Native mods & Party Limit Begone has other ways of installing. Refer to the mods description and the guides shown there.
+!!! note
+
+    Some mods are installed differently such as Native mods & Party Limit Begone has other ways of installing. Refer to the mods description and the guides shown there.
 
 ---
 

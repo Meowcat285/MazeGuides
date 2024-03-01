@@ -112,8 +112,9 @@ OR
 
 ![Export order button](/assets/mods-install/image28.png)
 
-{: .note }
-They will do the same thing so no need to press both
+!!! tip
+    
+    They will do the same thing so no need to press both
 
 If it works, you should see this message in the bottom of your Mod Manager: 
 
@@ -121,8 +122,9 @@ If it works, you should see this message in the bottom of your Mod Manager:
 
 If it does not work, please ask me in Discord!
 
-{: .note }
-Some mods will always be in overrides section in BG3MM! These include Mod Fixer, Improved Ui and others.
+!!! tip
+    
+    Some mods will always be in overrides section in BG3MM! These include Mod Fixer, Improved Ui and others.
 
 ### Mod fixer is a must! Mod fixer is required because of this:
 Mod fixer is a story compiler, which forces the game to compile the story. What does this mean? It means that it forces the game to be able to handle external .paks Without it, you can have issues such as: not being able to fast travel, not being able to interact with anybody and instead of character creation experience a naked durge haram.
@@ -135,7 +137,7 @@ Mod fixer is a story compiler, which forces the game to compile the story. What 
 
 If you need to install manual/loose mods, go here:
 
-[How to install manual/loose mods](/manual-mods-install/){: .btn .btn-green }
+[How to install manual/loose mods](/manual-mods-install/)
 
 ---
 
