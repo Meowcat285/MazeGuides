@@ -61,8 +61,9 @@ If you have native mod loader OR script extender, do these extra steps:
 - Delete `Dwrite.dll`. (This is the Script Extender)
 - Delete `bind2w64.dll`
 - Rename `bink2w64_original.dll` to `bink2w64.dll`
-  
-**MAKE SURE YOU HAVE DONE THE ABOVE**
+
+{: .important }
+MAKE SURE YOU HAVE DONE THE ABOVE
 
 ---
 
