@@ -67,6 +67,9 @@ callouts:
   note:
     title: Note
     color: green
+  editorsnote:
+    title: Editor's Note
+    color: purple
 
 include:
   - mods-install
