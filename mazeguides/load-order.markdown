@@ -8,9 +8,11 @@ permalink: /load-order/
 
 > Guide by Nells
 
+---
+
 Proposing a general Load Order structure, even though it doesn't matter a ton, but just as an easy guideline for people to set theirs up with. 
 
-[I’ve been playing through with this load order](/assets/ryLULmR.png) (ignore the warnings icons on there, they indicate BG3MM not seeing SE, but I have SE installed and working manually), and it’s been reliable through at least half of Act 1, still testing it as I go through a playthrough. 
+[I’ve been playing through with this load order](/assets/load-order/ryLULmR.png) (ignore the warnings icons on there, they indicate BG3MM not seeing SE, but I have SE installed and working manually), and it’s been reliable through at least half of Act 1, still testing it as I go through a playthrough. 
 
 The structure behind it is as follows:
 
