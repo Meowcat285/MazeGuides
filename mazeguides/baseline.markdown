@@ -13,7 +13,8 @@ Keep in mind with these photos I have mods, some of these you may see different 
 
 ## Step 1: Deleting All mods in the Appdata/Mods folder
 
-{: .important }
+The preferences should look like this.
+Your game data path has to end with your data folder and your game executable path has to end with your bg3.exe. 
 Please, keep in mind the location visible should be similar, this isn’t your installation folder
 
 Additionally, you can choose to move them out in a temporary folder, if you plan on keeping your mods. All the mods should be in the format of .pak 
