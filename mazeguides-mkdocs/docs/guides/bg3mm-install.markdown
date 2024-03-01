@@ -8,9 +8,11 @@ has_children: true
 # How To Install Baldur’s Gate 3 Mod Manager
 > Guide By Maze
 
-{: .note }
-This guide is meant for Baldur’s Gate 3 Mod Manager users - not vortex. 
-I personally do not use Vortex and therefore it is not with them in mind. I might make one in the future!
+!!! note
+    
+    This guide is meant for Baldur’s Gate 3 Mod Manager users - not vortex. 
+    
+    I personally do not use Vortex and therefore it is not with them in mind. I might make one in the future!
 
 ## Step 1: Install Baldur’s Gate 3 Mod Manager
 The first thing you gotta do is install Baldur’s Gate 3 Mod Manager. 
@@ -66,8 +68,8 @@ Profile: Public
 Mod Order: Current
 ```
 
-{: .important }
-If they are blank, open the game to the main menu and close it down. It should correct itself
+!!! tip
+    If they are blank, open the game to the main menu and close it down. It should correct itself
 
 Now you need to go into your settings, then preferences: 
 
@@ -75,9 +77,10 @@ Now you need to go into your settings, then preferences:
 
 ![BG3MM Preferences](/assets/bg3mm-install/image6.png)
 
-{: .important }
-The preferences should look like this.
-Your game data path has to end with your data folder and your game executable path has to end with your bg3.exe.
+!!! note
+    
+    The preferences should look like this.
+    Your game data path has to end with your data folder and your game executable path has to end with your bg3.exe.
 
 ### If you do not know where they are, do this:
 ![Right click drop down of BG3 in Steam](/assets/bg3mm-install/image1.png)
@@ -93,7 +96,7 @@ Path (could be different depending on system and harddrive):
 
 ## Now that you have finished installing BG3MM, you can continue on to the mods install guide
 
-[Continue to How to Install Mods Guide](/mods-install/){: .btn .btn-green }
+[Continue to How to Install Mods Guide](mods-install.markdown){: .btn .btn-green }
 
 ---
 

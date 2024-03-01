@@ -1,17 +1,12 @@
-# Welcome to MkDocs
+---
 
-For full documentation visit [mkdocs.org](https://www.mkdocs.org).
+title: Home
 
-## Commands
+---
 
-* `mkdocs new [dir-name]` - Create a new project.
-* `mkdocs serve` - Start the live-reloading docs server.
-* `mkdocs build` - Build the documentation site.
-* `mkdocs -h` - Print help message and exit.
+# Maze Guides
+## For all you Baldur's Gate 3 guide needs
 
-## Project layout
+---
 
-    mkdocs.yml    # The configuration file.
-    docs/
-        index.md  # The documentation homepage.
-        ...       # Other markdown pages, images and other files.
+**Do not share any links to any of these guides in the official Larian Discord server!**

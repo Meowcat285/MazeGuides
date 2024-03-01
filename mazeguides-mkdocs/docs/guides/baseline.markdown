@@ -20,8 +20,9 @@ Please, keep in mind the location visible should be similar, this isn’t your i
 Additionally, you can choose to move them out in a temporary folder, if you plan on keeping your mods. All the mods should be in the format of .pak 
 Here is how to find the mods folder:
 
-{: .caution }
-Do Not Delete your entire Larian or BG3 folder, your saves are fine. Just navigate & delete the pak files inside mods folder itself.(Even full reinstalls don’t need this)
+!!! warning
+    
+    Do Not Delete your entire Larian or BG3 folder, your saves are fine. Just navigate & delete the pak files inside mods folder itself. (Even full reinstalls don’t need this)
 
 `C:\Users\YourName\AppData\Local\Larian Studios\Baldur's Gate 3\Mods`
 ![Image of mods folder](/assets/baseline/image7.png)
@@ -37,9 +38,10 @@ Just go to the windows search function at the start, type ‘Run’ and click on
 
 ## Step 2: Delete specified folders
 
-{: .important }
-Delete all folders except Localization. Photo for reference. Localization is vanilla.
-You should only delete folders listed here, leave the pak files alone.
+!!! warning
+
+    Delete all folders except Localization. Photo for reference. Localization is vanilla.
+    You should only delete folders listed here, leave the pak files alone.
 
 The path should look something like this, depending on the drive you installed Baldurs Gate on: 
 `D:\SteamLibrary\steamapps\common\Baldurs Gate 3\Data`
@@ -63,8 +65,9 @@ If you have native mod loader OR script extender, do these extra steps:
 - Delete `bind2w64.dll`
 - Rename `bink2w64_original.dll` to `bink2w64.dll`
 
-{: .important }
-MAKE SURE YOU HAVE DONE THE ABOVE
+!!! note
+    
+    MAKE SURE YOU HAVE DONE THE ABOVE
 
 ---
 
@@ -72,8 +75,9 @@ MAKE SURE YOU HAVE DONE THE ABOVE
 
 If you have **Party Limit Begone Legacy** installed, then you will need to delete your `exe` files in your bin folder. Delete the backup too
 
-{: .important }
-The exes do not get altered/reinstalled when you verify the game so this is a MUST! if you had Party limit begone mod legacy. If you use the .pak version then do not worry and skip this step!
+!!! note
+
+    The exes do not get altered/reinstalled when you verify the game so this is a MUST! if you had Party limit begone mod legacy. If you use the .pak version then do not worry and skip this step!
 
 ---
 
