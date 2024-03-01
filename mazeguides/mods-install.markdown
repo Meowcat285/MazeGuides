@@ -135,9 +135,9 @@ Mod fixer is a story compiler, which forces the game to compile the story. What 
 
 ---
 
-If you need to install manual mods, go here:
+If you need to install manual/loose mods, go here:
 
-[How to install manual mods](/install-manual-mods/){: .btn .btn-green }
+[How to install manual/loose mods](/manual-mods-install/){: .btn .btn-green }
 
 ---
 
