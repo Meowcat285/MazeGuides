@@ -1,10 +1,10 @@
 ---
 layout: page
-title: How To Install Mods
+title: How To Install BG3MM
 permalink: /bg3mm-install/
 ---
 
-# How To Install Mods
+# How To Install BG3MM
 > Guide By Maze
 
 {: .note }
