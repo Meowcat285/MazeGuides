@@ -10,4 +10,4 @@ layout: home
 
 ---
 
-**Do not share any links to any of these guides in the offial Larian Discord server!**
+**Do not share any links to any of these guides in the official Larian Discord server!**

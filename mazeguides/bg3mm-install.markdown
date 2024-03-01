@@ -2,9 +2,10 @@
 layout: page
 title: How To Install BG3MM
 permalink: /bg3mm-install/
+has_children: true
 ---
 
-# How To Install BG3MM
+# How To Install Baldur’s Gate 3 Mod Manager
 > Guide By Maze
 
 {: .note }
@@ -87,6 +88,12 @@ It will take you to your games root folder which has both the bin and data folde
 
 Path (could be different depending on system and harddrive):
 `D:\SteamLibrary\steamapps\common\Baldurs Gate 3`
+
+---
+
+## Now that you have finished installing BG3MM, you can continue on to the mods install guide
+
+[Continue to How to Install Mods Guide](/mods-install/){: .btn .btn-green }
 
 ---
 

@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Establish A Baseline
+title: How To Establish A Baseline
 permalink: /baseline/
 ---
 
