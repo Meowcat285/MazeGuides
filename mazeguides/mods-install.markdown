@@ -118,10 +118,7 @@ If it works, you should see this message in the bottom of your Mod Manager:
 
 ![Saved order message in BG3MM](/assets/mods-install/image11.png)
 
-{: .editorsnote }
-Should this be changed?
-
-If it does not work, please ask in the Official Larian Discord server in #bg3-mods-support!
+If it does not work, please ask me in Discord!
 
 {: .note }
 Some mods will always be in overrides section in BG3MM! These include Mod Fixer, Improved Ui and others.
