@@ -70,7 +70,7 @@ And it will launch the game, and your game should not be updating when you launc
 ## Second Method
 
 {: .important }
-Make sure to make BG3 update on launch, so it does not automatically start downloading the patch (so follow first steps above)
+Make sure to set BG3 to update on launch, so it does not automatically start downloading the patch (so follow first steps above)
 
 Otherwise, just go offline on steam and launch normally
 
