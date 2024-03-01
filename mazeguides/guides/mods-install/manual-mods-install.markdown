@@ -2,7 +2,8 @@
 layout: page
 title: How to install manual/loose mods
 permalink: /manual-mods-install/
-parent: How To Install BG3MM
+parent: How To Install Mods
+grand_parent: How To Install Mods
 ---
 
 # How to install manual/loose mods

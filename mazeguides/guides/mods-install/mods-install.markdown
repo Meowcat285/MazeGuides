@@ -3,6 +3,7 @@ layout: page
 title: How To Install Mods
 permalink: /mods-install/
 parent: How To Install BG3MM
+has_children: true
 ---
 
 # How to install mods
