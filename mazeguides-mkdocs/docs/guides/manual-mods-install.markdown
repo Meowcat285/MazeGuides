@@ -50,7 +50,7 @@ That’s it! Now it’s installed.
 
 ---
 
-!!! note
+!!! tip
     
     If the file extracted from the rar/zip file is called Bin/Data it needs to go to the root folder: D:\SteamLibrary\steamapps\common\Baldurs Gate 3
 
@@ -60,7 +60,7 @@ That’s it! Now it’s installed.
 
 ---
 
-!!! note
+!!! tip
 
     Some mods are installed differently such as Native mods & Party Limit Begone has other ways of installing. Refer to the mods description and the guides shown there.
 
