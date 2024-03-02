@@ -56,20 +56,31 @@ Preferably test everything in a new save/campaign, and not on an older save
 
 ## Cant join other players in multiplayer
 
-Screenshare with each other
-Check you have same mods 
-Check its the same versions 
-Check its the same mod load order
+ - Screenshare with each other
+
+ - Check you have same mods 
+
+ - Check its the same versions 
+
+ - Check its the same mod load order
 
 If that does not work, do this: 
-Remove all mods from your mods folder (or purge if its in vortex) 
-Add one mod or mods in batches 
-Deploy if in vortex, save order or export order if its in bg3mm 
-Open game, see if you can join
-If you cant, you have found your problem mod 
-If you can, keep going by adding the mods and rinse and repeat the steps above
 
-Remember to actually take the mods out of the mods folder, and not make the mods inactive. Inactive mods can still affect the game, esp if they are brown
+ - Remove all mods from your mods folder (or purge if its in vortex) 
+
+ - Add one mod or mods in batches 
+
+ - Deploy if in vortex, save order or export order if its in bg3mm 
+
+ - Open game, see if you can join
+
+ - If you cant, you have found your problem mod 
+
+ - If you can, keep going by adding the mods and rinse and repeat the steps above
+
+!!! tip
+    
+    Remember to actually take the mods out of the mods folder, and not make the mods inactive. Inactive mods can still affect the game, esp if they are brown
 
 ---
 
