@@ -37,15 +37,24 @@ The only folder that should be in there is the public folder. Custom and Debug f
 Preferably use BG3MM for this part. Open your game, refresh BG3MM, does the mod go inactive? Close the game, refresh BG3MM, check if they go inactive. 
 If they do go inactive, follow this: 
 
-So what you need to do is take all your mods out of your mods folder 
+So what you need to do is take all your mods out of your mods folder
+
 Then you need to delete the modsetting file (that is inside the public folder)
-After that you put the mods back in batches
-You refresh bg3mm, set it active and save order
-Open the game
-Close the game 
-See if the mods have gone inactive
-If not, keep going 
-If yes, then one of the mods you added is the issue
+
+ - After that you put the mods back in batches
+
+ - You refresh bg3mm, set it active and save order
+
+ - Open the game
+
+ - Close the game 
+
+ - See if the mods have gone inactive
+
+ - If not, keep going 
+
+ - If yes, then one of the mods you added is the issue
+
 
 **If you use vortex for the 3rd one:**
 Disable any new/updated mods you have recently added
