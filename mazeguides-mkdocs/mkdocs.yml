@@ -2,6 +2,8 @@ site_name: Maze Guides
 
 theme:
   name: material
+  features:
+    - navigation.tabs
   palette:
     scheme: slate
   icon:
