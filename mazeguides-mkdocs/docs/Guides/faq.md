@@ -95,7 +95,7 @@ If that does not work, do this:
 
 ## Do you see this naked durge harem when you create a new character? 
 
-![Hmm](/assets/faq/SPOILER_hm.png)
+![Hmm](/assets/faq/SPOILER_hm.png){ loading=lazy }
 
 Then you need the mod fixer from Nexus: [https://www.nexusmods.com/baldursgate3/mods/141](https://www.nexusmods.com/baldursgate3/mods/141)
 
