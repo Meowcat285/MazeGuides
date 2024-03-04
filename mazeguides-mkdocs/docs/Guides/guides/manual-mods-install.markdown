@@ -35,16 +35,16 @@ Or the root game folder:
 
 I chose to download a tattoo/make up mod. It will come in a .rar file
 
-![Image of mod archive in a file browser](/assets/mods-install/image1.png)
+![Image of mod archive in a file browser](/assets/mods-install/image1.png){ loading=lazy }
 
 Extract the zip/rar file:
 
-![Image of extracted archive files](/assets/mods-install/image26.png)
+![Image of extracted archive files](/assets/mods-install/image26.png){ loading=lazy }
 
 As you can see - a folder called “Generated” will be extracted. This particular mod needs to go into my Data folder (if you are unsure where it goes, please read the mod description, it will say which folder it goes into)
 
 So find your data folder, then drag the file into the Data folder - like this:
-![Image of game Data folder](/assets/mods-install/image32.png)
+![Image of game Data folder](/assets/mods-install/image32.png){ loading=lazy }
 
 That’s it! Now it’s installed.
 
@@ -54,7 +54,7 @@ That’s it! Now it’s installed.
     
     If the file extracted from the rar/zip file is called Bin/Data it needs to go to the root folder: D:\SteamLibrary\steamapps\common\Baldurs Gate 3
 
-![Image of BG3 Root folder](/assets/mods-install/image8.png)
+![Image of BG3 Root folder](/assets/mods-install/image8.png){ loading=lazy }
 
 **It will auto merge with the already existing folder**
 
