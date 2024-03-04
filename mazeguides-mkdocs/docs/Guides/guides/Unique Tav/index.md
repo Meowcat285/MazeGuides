@@ -96,3 +96,17 @@ Now open the Unique tav folder
 ![Contents of Unique tav folder](/assets/unique-tav/2024-03-03 14.36.12.png){ loading=lazy }
 
 You will see a Generated folder: Move this Generated folder into your Data folder like this:
+
+![alt](/assets/unique-tav/2024-03-04 16.12.13.png){ loading=lazy }
+
+That is it. You have now installed Unique tav. 
+
+You can continue on to the [How to install custom body/face tattoo’s and makeup](replace-files-unique-tav.md) guide
+
+---
+
+> Credits:
+>
+> Maze, Meowcat285
+>
+> Kartoffel for Unique tav

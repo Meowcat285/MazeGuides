@@ -39,3 +39,12 @@ You will see a folder named `Generated`. Move this folder to your Baldur's Gate 
 
 This should work for most mods, but some mods like `CovenElf Makeup/tattoo collection` and `Boring Tieflings` are not compatible with Unique Tav, and you will need to convert it.
 
+[How to convert mods to be compatible with Unique Tav](convert-unique-tav.md)
+
+---
+
+> Credits:
+>
+> Maze, Meowcat285
+>
+> Kartoffel for Unique tav
