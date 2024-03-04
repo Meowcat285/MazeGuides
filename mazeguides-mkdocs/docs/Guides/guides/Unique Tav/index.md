@@ -61,7 +61,7 @@ Now the load order in the mod manager: Unique tav needs to override other mods w
     
     Trips Old Shader pak need to be in overrides, so please do not touch that.
 
-    ![Overrides list](/assets/unique-tav/2024-03-03 14.25.04.png)
+    ![Overrides list](/assets/unique-tav/2024-03-04 14.19.12.png)
 
 !!! note
     
