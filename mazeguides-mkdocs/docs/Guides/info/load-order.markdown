@@ -67,4 +67,4 @@ The structure behind it is as follows:
 ---
 
 ### **Example Load Order**
-![Image of load order in BG3MM](/assets/load-order/image1.png)
+![Image of load order in BG3MM](/assets/load-order/image1.png){ loading=lazy }
