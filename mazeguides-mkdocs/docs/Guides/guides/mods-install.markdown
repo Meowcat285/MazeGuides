@@ -27,14 +27,14 @@ You might get confused into clicking on `Mod Manager Download`, but that is only
 
 Select `MANUAL DOWNLOAD`
 
-![Manual Download Button](/assets/mods-install/image3.png)
+![Manual Download Button](/assets/mods-install/image3.png){ loading=lazy }
 
 Then select `SLOW DOWNLOAD` (Unless you are a premium user)
 
 {: .note }
 You will need a Nexus Mods account to download mods, if you do not have one, make one
 
-![Slow download and fast download buttons](/assets/mods-install/image2.png)
+![Slow download and fast download buttons](/assets/mods-install/image2.png){ loading=lazy }
 
 ---
 
@@ -42,11 +42,11 @@ You will need a Nexus Mods account to download mods, if you do not have one, mak
 
 The mod will likely come in either a `zip` or a `rar` file. Use 7zip or Winrar. (I personally recommend 7zip, its a better choice and is overall safer)
 
-![Downloaded Mod archive](/assets/mods-install/image24.png)
+![Downloaded Mod archive](/assets/mods-install/image24.png){ loading=lazy }
 
 After downloading the mod, extract the mod as shown
 
-![Extracted Mod Files](/assets/mods-install/image20.png)
+![Extracted Mod Files](/assets/mods-install/image20.png){ loading=lazy }
 
 Then you can delete the `zip` or `rar` file
 
@@ -59,11 +59,11 @@ The path is: `C:\Users\username\AppData\Local\Larian Studios\Baldur's Gate 3\Mod
 
 If you do not know how to find your Appdata mods folder, you can press the Windows key + r, and in the dialog that comes up, type in `%LOCALAPPDATA%` and select ok.
 
-![Windows Run Dialog](/assets/mods-install/image9.png)
+![Windows Run Dialog](/assets/mods-install/image9.png){ loading=lazy }
 
 It will then open a file browser window in this folder:
 
-![App Data Local Folder](/assets/mods-install/image12.png)
+![App Data Local Folder](/assets/mods-install/image12.png){ loading=lazy }
 
 Now scroll down until you find `Larian Studios` and then click on that
 
@@ -82,7 +82,7 @@ DO NOT PUT ANYTHING ELSE IN THE MODS FOLDER: NO folders. NO `.json` files. NO zi
 
 Just drag the .pak file into your mods folder, so it looks like this: 
 
-![Mod pak in the mods folder](/assets/mods-install/image13.png)
+![Mod pak in the mods folder](/assets/mods-install/image13.png){ loading=lazy }
 
 ---
 
@@ -92,25 +92,25 @@ Now you need to open BG3MM
 
 Press the refresh button
 
-![Refresh button in BG3MM](/assets/mods-install/image4.png)
+![Refresh button in BG3MM](/assets/mods-install/image4.png){ loading=lazy }
 
 After you have pressed the refresh button, it should look like this:
 
-![BG3MM UI with one mod inactive](/assets/mods-install/image15.png)
+![BG3MM UI with one mod inactive](/assets/mods-install/image15.png){ loading=lazy }
 
 As you can see the mod will be on the inactive side. 
 
 Click on the mod, hold down and drag it over to the other side (the active side) so it looks like this:
 
-![BG3MM UI with one mod active](/assets/mods-install/image30.png)
+![BG3MM UI with one mod active](/assets/mods-install/image30.png){ loading=lazy }
 
 Now you just need to press `Save order` or `Export order`
 
-![Save order button](/assets/mods-install/image21.png)
+![Save order button](/assets/mods-install/image21.png){ loading=lazy }
 
 OR
 
-![Export order button](/assets/mods-install/image28.png)
+![Export order button](/assets/mods-install/image28.png){ loading=lazy }
 
 !!! tip
     
@@ -118,7 +118,7 @@ OR
 
 If it works, you should see this message in the bottom of your Mod Manager: 
 
-![Saved order message in BG3MM](/assets/mods-install/image11.png)
+![Saved order message in BG3MM](/assets/mods-install/image11.png){ loading=lazy }
 
 If it does not work, please ask me in Discord!
 
@@ -129,7 +129,7 @@ If it does not work, please ask me in Discord!
 ### Mod fixer is a must! Mod fixer is required because of this:
 Mod fixer is a story compiler, which forces the game to compile the story. What does this mean? It means that it forces the game to be able to handle external .paks Without it, you can have issues such as: not being able to fast travel, not being able to interact with anybody and instead of character creation experience a naked durge haram.
 
-![Overrides mods section](/assets/mods-install/image25.png)
+![Overrides mods section](/assets/mods-install/image25.png){ loading=lazy }
 
 **These are fine and should stay there. They are always active and the only way to deactivate them is to remove them from your mods folder!**
 

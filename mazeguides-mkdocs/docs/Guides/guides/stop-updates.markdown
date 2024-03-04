@@ -31,15 +31,15 @@ When you mod BG3, after every patch - expect some mods to break
 
 Right click on BG3 and choose properties 
 
-![Image of BG3 right click menu in steam](/assets/stop-updates/image3.png)
+![Image of BG3 right click menu in steam](/assets/stop-updates/image3.png){ loading=lazy }
 
 This will come up, now click on `Updates`
 
-![Image on BG3 properties window in steam](/assets/stop-updates/image7.png)
+![Image on BG3 properties window in steam](/assets/stop-updates/image7.png){ loading=lazy }
 
 Set it to `Only update this game when I launch it`
 
-![Image of automatic update settings in steam](/assets/stop-updates/image1.png)
+![Image of automatic update settings in steam](/assets/stop-updates/image1.png){ loading=lazy }
 
 ---
 
@@ -47,11 +47,11 @@ Set it to `Only update this game when I launch it`
 
 Click on `settings`, then `preferences`
 
-![BG3MM Settings Dropdown](/assets/stop-updates/image4.png)
+![BG3MM Settings Dropdown](/assets/stop-updates/image4.png){ loading=lazy }
 
 Make sure `Launch Through Steam` is unchecked
 
-![BG3MM Preferences Menu](/assets/stop-updates/image5.png)
+![BG3MM Preferences Menu](/assets/stop-updates/image5.png){ loading=lazy }
 
 You may also have to have `skip launcher` checked so you do not open via launcher
 
@@ -61,7 +61,7 @@ You may also have to have `skip launcher` checked so you do not open via launche
 
 Now you can just click here in BG3MM:
 
-![Launch BG3 button in BG3MM](/assets/stop-updates/image6.png)
+![Launch BG3 button in BG3MM](/assets/stop-updates/image6.png){ loading=lazy }
 
 !!! tip
 
@@ -79,7 +79,7 @@ And it will launch the game, and your game should not be updating when you launc
 
 Otherwise, just go offline on steam and launch normally
 
-![Go Offline button in steam](/assets/stop-updates/image2.png)
+![Go Offline button in steam](/assets/stop-updates/image2.png){ loading=lazy }
 
 ---
 
