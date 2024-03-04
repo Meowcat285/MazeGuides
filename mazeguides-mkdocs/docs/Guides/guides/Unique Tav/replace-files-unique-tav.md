@@ -4,7 +4,7 @@ title: How to install custom body/face tattoo’s and makeup
 
 ---
 
-> Guide by Maze
+> Guide by Maze (edited by Meowcat285)
 
 ---
 
@@ -38,3 +38,4 @@ You will see a folder named `Generated`. Move this folder to your Baldur's Gate 
     ![Replace files prompt](/assets/unique-tav/2024-03-04 14.27.58.png)
 
 This should work for most mods, but some mods like `CovenElf Makeup/tattoo collection` and `Boring Tieflings` are not compatible with Unique Tav, and you will need to convert it.
+
