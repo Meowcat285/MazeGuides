@@ -38,3 +38,5 @@ markdown_extensions:
           format: !!python/name:pymdownx.superfences.fence_code_format
 
 site_url: https://mazeguides.meowcat285.com/
+
+repo_url: https://github.com/Meowcat285/MazeGuides
