@@ -22,8 +22,8 @@ The first mod you should install is the mod fixer: It will go down in overrides,
 
 ## Step 2: Downloading the mod
 
-{: .important }
-You might get confused into clicking on `Mod Manager Download`, but that is only for Vortex users and not BG3MM users
+!!! tip
+    You might get confused into clicking on `Mod Manager Download`, but that is only for Vortex users and not BG3MM users
 
 Select `MANUAL DOWNLOAD`
 
@@ -31,8 +31,8 @@ Select `MANUAL DOWNLOAD`
 
 Then select `SLOW DOWNLOAD` (Unless you are a premium user)
 
-{: .note }
-You will need a Nexus Mods account to download mods, if you do not have one, make one
+!!! note
+    You will need a Nexus Mods account to download mods, if you do not have one, make one
 
 ![Slow download and fast download buttons](/assets/mods-install/image2.png){ loading=lazy }
 
@@ -77,8 +77,8 @@ Then find the folder `Mods`
 
 Now you need to put the `.pak` file into your mods folder.
 
-{: .important }
-DO NOT PUT ANYTHING ELSE IN THE MODS FOLDER: NO folders. NO `.json` files. NO zip/rar files. ONLY `.pak` files.
+!!! tip
+    DO NOT PUT ANYTHING ELSE IN THE MODS FOLDER: NO folders. NO `.json` files. NO zip/rar files. ONLY `.pak` files.
 
 Just drag the .pak file into your mods folder, so it looks like this: 
 
