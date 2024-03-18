@@ -48,3 +48,5 @@ This should work for most mods, but some mods like `CovenElf Makeup/tattoo colle
 > Maze, Meowcat285
 >
 > Kartoffel for Unique tav
+
+**© Maze 2024, all rights reserved**

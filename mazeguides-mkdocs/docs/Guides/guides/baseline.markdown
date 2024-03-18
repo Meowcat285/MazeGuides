@@ -125,3 +125,5 @@ Test if you can reach character creation without issues, look around for bugs, i
 Credits to Maze & DefinitiveToast for making this guide.
 Additional credit to Meowcat285 for remaking this as a website
 > This guide was created using an already known guide, the original creators name has been lost. Hence why if you know the original creators name, please tell us! I would like to credit the original creator
+
+**© Maze 2024, all rights reserved**

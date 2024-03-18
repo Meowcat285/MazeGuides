@@ -105,3 +105,5 @@ Credits:
 Maze, Meowcat285 
 
 LaughingLeader for BG3MM
+
+**© Maze 2024, all rights reserved**

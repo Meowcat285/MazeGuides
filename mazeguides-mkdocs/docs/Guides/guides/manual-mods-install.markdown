@@ -67,3 +67,5 @@ That’s it! Now it’s installed.
 ---
 
 > Credits: Maze, Meowcat285
+
+**© Maze 2024, all rights reserved**

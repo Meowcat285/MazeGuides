@@ -84,3 +84,5 @@ Otherwise, just go offline on steam and launch normally
 ---
 
 Credits: Maze, Meowcat285
+
+**© Maze 2024, all rights reserved**

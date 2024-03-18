@@ -110,3 +110,5 @@ You can continue on to the [How to install custom body/face tattoo’s and makeu
 > Maze, Meowcat285
 >
 > Kartoffel for Unique tav
+
+**© Maze 2024, all rights reserved**

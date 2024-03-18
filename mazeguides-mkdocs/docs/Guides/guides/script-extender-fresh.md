@@ -58,3 +58,5 @@ Or you can download the script extender via github. Drop the Dwrite.dll in your 
 > Maze, Meowcat285
 >
 > Norbyte for Script Extender
+
+**© Maze 2024, all rights reserved**

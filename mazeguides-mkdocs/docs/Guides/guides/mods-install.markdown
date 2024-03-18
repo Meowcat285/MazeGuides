@@ -142,3 +142,5 @@ If you need to install manual/loose mods, go here:
 ---
 
 > Credits: Maze, Meowcat285
+
+**© Maze 2024, all rights reserved**
