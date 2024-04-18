@@ -1,0 +1,4 @@
+User-agent: GPTbot
+Disallow: /
+User-agent: Google-Extended
+Disallow: /
