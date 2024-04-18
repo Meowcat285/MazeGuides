@@ -23,6 +23,8 @@ theme:
 
 plugins:
   - search
+  - ultralytics
+  - mkdocstrings
 
 markdown_extensions:
   - attr_list
